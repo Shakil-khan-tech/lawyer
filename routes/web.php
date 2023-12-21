@@ -81,7 +81,6 @@ use Illuminate\Support\Facades\Route;
 // use Artisan;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
-use DB;
 use Carbon\Carbon;
 use App\CaseProceeding;
 
